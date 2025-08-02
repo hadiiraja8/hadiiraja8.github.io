@@ -66945,7 +66945,7 @@ A.K0.prototype={
 od(){var s=0,r=A.M(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i
 var $async$od=A.G(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:p=4
-l=A.eM("https://drive.google.com/uc?export=download&id=1GQxcOsYGLXOyLQmLu8m6b3NsRuwJsCm4",0,null)
+l=A.eM("https://drive.google.com/file/d/1mioW7rc7_oLwW8pSA3i2veZI8wJfxJ_C/view?usp=sharing",0,null)
 s=10
 return A.O(A.B8(l),$async$od)
 case 10:s=b?7:9
